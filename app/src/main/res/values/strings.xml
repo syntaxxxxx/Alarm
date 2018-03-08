@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="one_time_alarm">One Time Alarm</string>
+    <string name="tgl_alarm">Tanggal Alarm</string>
+    <string name="waktu_alarm_1">Waktu Alarm</string>
+    <string name="btn_waktu">...</string>
+    <string name="btn_tamggal">...</string>
+    <string name="pesan_alarm_1">Pesan Alarm</string>
+    <string name="set_one_alarm_time">set one alarm time</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+    <string name="btn_repeating_alarm">...</string>
+    <string name="waktu_alarm">Waktu Alarm</string>
+    <string name="pesan_alarm_2">Pesan Alarm</string>
+    <string name="set_repeating_alarm">set repeating alarm</string>
+    <string name="batalkan_alarm">batalkan alarm</string>
+</resources>
